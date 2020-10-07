@@ -1,0 +1,57 @@
+body {
+    background-color: lightseagreen;
+}
+
+header {
+    color: white;
+    margin: 50px 50px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: large;
+}
+
+header p {
+    margin-top: 0;
+}
+
+main {
+    display: flex;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+.gambar img {
+    width: 290px;
+}
+
+.box {
+    display: flex;
+    background-color: white;
+    margin-left: 30px;
+    margin-bottom: 21px;
+}
+
+.isibox {
+    padding-left: 10px;
+
+}
+
+button {
+    background-color: turquoise;
+    color: darkslategrey;
+    border: 0;
+    width: 90px;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+    color: darkslategrey;
+}
